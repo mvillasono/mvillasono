@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Villa</h1>
 <h3 align="center">A passionate fullstack developer from Perú</h3>
 
-- 💬 Ask me about **html,css,javascript, reactjs, java, spring boot, sql**
+- 💬 Ask me about **html, css, javascript, reactjs, java, spring boot, sql**
 
 - 📫 How to reach me **mvillasono@gmail.com**
 
